@@ -1,0 +1,24 @@
+{
+  "name": "cug",
+  "version": "1.0.0",
+  "description": "d",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kingodedede44/Loggedin.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kingodedede44/Loggedin/issues"
+  },
+  "homepage": "https://github.com/Kingodedede44/Loggedin#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0",
+    "uuid": "^8.3.2"
+  }
+}
